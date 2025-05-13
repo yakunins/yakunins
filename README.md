@@ -1,10 +1,16 @@
-## Development
- - [Anvil Design System v1](https://v1.anvil.servicetitan.com/), a&nbsp;crucial part of&nbsp;ServiceTitan's front‑end
- - [Digital Clock in New Tab](https://yakunins.github.io/digital-clock), a&nbsp;sleek browser extension
- - [Scrollbar Clone](https://github.com/yakunins/scrollbar-clone), a&nbsp;web and react component
- - [Dataobjects.net](https://dataobjects.net), an&nbsp;ever-lasting website<br />
- - [Language Indicator](https://github.com/yakunins/language-indicator), a&nbsp;quality-of-life tool
- - [Lockscreen with Pixelized Screenshot](https://github.com/yakunins/windows-pixelized-lockscreen)
-
-## Design
- - [Works 2008–2016](https://yakunins.github.io/yakunins-com), an&nbsp;archive of&nbsp;past projects
+<table class="my-table">
+  <tr>
+    <td valign="top width="50%">
+      <b>Development</b><br/> 
+      — <a href="https://v1.anvil.servicetitan.com/">Anvil Design System v1</a>, a&nbsp;crucial part of&nbsp;ServiceTitan's front‑end<br/> 
+      — <a href="https://yakunins.github.io/digital-clock">Digital Clock in New Tab</a>, a&nbsp;sleek browser extension<br/>  
+      — <a href="https://github.com/yakunins/scrollbar-clone">Scrollbar Clone</a>, a&nbsp;web and react component<br/>  
+      — <a href="https://dataobjects.net">Dataobjects.net</a>, an&nbsp;ever-lasting website<br/> 
+      — <a href="https://github.com/yakunins/language-indicator">Language Indicator</a>, a&nbsp;quality-of-life tool<br/> 
+    </td>
+    <td valign="top" width="50%">
+      <b>Design</b><br/> 
+      — <a href="https://yakunins.github.io/yakunins-com">Works 2008–2016</a>, an&nbsp;archive of&nbsp;past projects<br/> 
+    </td>
+  </tr>
+</table>
