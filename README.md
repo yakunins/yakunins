@@ -9,5 +9,5 @@ Development                                                         Design
  — <a href="https://dataobjects.net">Dataobjects.net</a>, an&nbsp;ever-lasting website
 </pre>
 
-# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;☀️<br/>&nbsp;&nbsp;&nbsp;☂<br/>&nbsp;☃<br/> <br/>
+
  
